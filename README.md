@@ -131,7 +131,3 @@ git clone https://github.com/camilalealed/connectatel-customer-usage-analysis.gi
     └── plans.csv
 ```
 
-
-Ingeniera de Producción | Data Analyst en formación
-
-Proyecto desarrollado como parte del programa de Data Analytics de TripleTen.
